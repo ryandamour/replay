@@ -1,6 +1,6 @@
 # > [!WARNING]
 
-This is me, a human, telling you that this plugin can be dangerous if not configured directly.  All of your messages will be stored / saved in .replay within your respective working directory.  This means if you hand off things like keys, secrets, or any other sensitive information, your message will be stored in a repo as soon as you commit.  I am not responsible if you don't take this message seriously.  This app was also 100% vibed - buyer beware.
+This is me, a human, telling you that this plugin can be dangerous if not configured directly.  All of your messages will be stored / saved in .replay within your respective working directory.  This means if you hand off things like keys, secrets, or any other sensitive information, your message will be stored in a repo as soon as you commit.  This also means any user can fake a chat history and cause your LLMs to do malicious things - please ensure you trust the other members using a shared .replay dir.  I am not responsible if you don't take this message seriously.  This app was also 100% vibed - buyer beware.
 
 Back to your regular AI programming:
 
