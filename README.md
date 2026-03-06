@@ -26,7 +26,7 @@ The result: Claude picks up where it left off. It knows what you asked three hou
 One command:
 
 ```sh
-git clone <repo-url> && cd replay
+git clone git@github.com:ryandamour/replay.git && cd replay
 ./install.sh
 ```
 
